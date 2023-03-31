@@ -1,0 +1,15 @@
+*{
+  background-color: transparent;
+  font-family: "Inter";
+}
+
+.section{
+  display: flex;
+  width: 100vw;
+  height: 80vh;
+}
+
+.Image{
+  width: 200px;
+  height: 200px;
+}

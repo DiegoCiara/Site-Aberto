@@ -1,0 +1,12 @@
+.section.home{
+  background-color: rgb(101, 172, 230);
+}
+.Intro{
+  display: flex;
+  flex-direction: row;
+
+}
+.Image.Home{
+  width: 500px;
+  height: 500px;
+}
